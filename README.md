@@ -3,5 +3,6 @@ It's for some tricks that are not really algo but usefull to know
 
 
 ## Binary numbers
-1. Display fixed number of bits
-2. Inverse all bits
+1. Convert string to binary
+2. Display fixed number of bits
+3. Inverse all bits
