@@ -1,5 +1,5 @@
 # Python_Tricks_for_Competitive_Programming
-It's for some tricks that are not really algo but usefull to know
+This repo is like a bag of tricks in Python, that are not really algos, but are usefull to know for CP.
 
 
 ## Binary numbers
