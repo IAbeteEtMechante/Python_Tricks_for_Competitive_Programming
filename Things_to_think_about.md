@@ -1,11 +1,10 @@
-# Python_Tricks_for_Competitive_Programming
-This repo is like a bag of tricks in Python, that are not really algos, but are usefull to know for CP.
+# Things to think about
+Random ideas from previous problems
 
 
-## Binary numbers
-1. Convert string to binary
-2. Display fixed number of bits
-3. Inverse all bits
+## Graphs
+* If you have n vertices and n edges, you are basically having a tree + one edge. Then you have one cycle in that graph
 
-## Misc
-1. Counter (frequency array)
+## Strings
+* Palindromes: every palindrome contains a palindrome of length 2 or 3 (may be himself)
+
