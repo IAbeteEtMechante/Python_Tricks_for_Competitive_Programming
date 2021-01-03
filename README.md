@@ -6,3 +6,6 @@ This repo is like a bag of tricks in Python, that are not really algos, but are 
 1. Convert string to binary
 2. Display fixed number of bits
 3. Inverse all bits
+
+## Misc
+1. Counter (frequency array)
