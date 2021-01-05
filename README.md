@@ -9,3 +9,4 @@ This repo is like a bag of tricks in Python, that are not really algos, but are 
 
 ## Misc
 1. Counter (frequency array)
+2. Sets (discard)
