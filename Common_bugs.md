@@ -1,11 +1,8 @@
-# Python_Tricks_for_Competitive_Programming
-This repo is like a bag of tricks in Python, that are not really algos, but are usefull to know for CP.
+# Common bugs
 
 
-## Binary numbers
-1. Convert string to binary
-2. Display fixed number of bits
-3. Inverse all bits
 
-## Misc
-1. Counter (frequency array)
+## Graph
+1. When you store the adjacency list for undirected, make sure you add 2 edges (one in each direction)
+
+
