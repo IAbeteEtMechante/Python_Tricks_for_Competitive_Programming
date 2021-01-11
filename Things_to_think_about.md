@@ -8,7 +8,7 @@ Random ideas from previous problems
 ## Strings
 * Palindromes: every palindrome contains a palindrome of length 2 or 3 (may be himself)
 
-## work with numbers and digits
+## Work with numbers and digits
 * sometimes it is better to convert a number to a string for easier manipulation:
 n = 15645234
 digits = str(n) 
