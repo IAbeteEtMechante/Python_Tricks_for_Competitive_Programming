@@ -1,3 +1,7 @@
+"""
+similar to group identical chars fro strings
+"""
+
 from itertools import groupby
 
 ss = "111112222333445"
