@@ -8,3 +8,11 @@ Random ideas from previous problems
 ## Strings
 * Palindromes: every palindrome contains a palindrome of length 2 or 3 (may be himself)
 
+## work with numbers and digits
+* sometimes it is better to convert a number to a string for easier manipulation:
+n = 15645234
+digits = str(n) 
+len(digits) # 8
+digits[-2] = 3 
+(it is faster than having to think about dividing by all the powers of 10 and take reminder and make a list)
+
