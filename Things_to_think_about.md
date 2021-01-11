@@ -14,5 +14,5 @@ n = 15645234 <br>
 digits = str(n) <br>
 len(digits) # 8 <br>
 digits[-2] = 3 <br>
-(it is faster than having to think about dividing by all the powers of 10 and take reminder and make a list)
+(it is faster than having to think about dividing by all the powers of 10 and take reminder and make a list, if you have to work with all the digits anyway)
 
