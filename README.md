@@ -7,7 +7,12 @@ This repo is like a bag of tricks in Python, that are not really algos, but are 
 2. Display fixed number of bits
 3. Inverse all bits
 
+## Arrays of numbers
+1. Group identical values
+2. Counter (frequency array)
+3. Prefix sums
+
+
 ## Misc
-1. Counter (frequency array)
-2. Sets (discard)
-3. Float precision
+1. Sets (discard)
+2. Float precision
