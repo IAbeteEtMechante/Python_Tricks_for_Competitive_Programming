@@ -16,3 +16,8 @@ len(digits) # 8 <br>
 digits[-2] = 3 <br>
 (it is faster than having to think about dividing by all the powers of 10 and take reminder and make a list, if you have to work with all the digits anyway)
 
+## Function
+* sometimes it is nice to numerically approximate the derivative of f
+by chosing epsilon very small (= 10^-6 for example) 
+and calculate (f(x + epsilon) - f(x - epsilon)) / (2 * epsilon)
+
