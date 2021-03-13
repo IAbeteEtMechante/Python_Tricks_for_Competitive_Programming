@@ -8,3 +8,16 @@ Random ideas from previous problems
 ## Strings
 * Palindromes: every palindrome contains a palindrome of length 2 or 3 (may be himself)
 
+## Work with numbers and digits
+* sometimes it is better to convert a number to a string for easier manipulation:
+n = 15645234 <br>
+digits = str(n) <br>
+len(digits) # 8 <br>
+digits[-2] = 3 <br>
+(it is faster than having to think about dividing by all the powers of 10 and take reminder and make a list, if you have to work with all the digits anyway)
+
+## Function
+* sometimes it is nice to numerically approximate the derivative of f
+by chosing epsilon very small (= 10^-6 for example) 
+and calculate (f(x + epsilon) - f(x - epsilon)) / (2 * epsilon)
+

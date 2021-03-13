@@ -19,4 +19,4 @@ This repo is like a bag of tricks in Python, that are not really algos, but are 
 ## Misc
 1. Sets (discard)
 2. Float precision
-3. FastIO
+3. Default dict initialization
