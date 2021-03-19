@@ -20,3 +20,6 @@ This repo is like a bag of tricks in Python, that are not really algos, but are 
 1. Sets (discard)
 2. Float precision
 3. Default dict initialization
+4. Precompute powers
+
+## Testing
