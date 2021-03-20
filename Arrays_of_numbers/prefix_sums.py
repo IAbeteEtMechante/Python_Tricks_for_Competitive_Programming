@@ -1,3 +1,9 @@
+"""
+in this implementation, pp has only n values, and it is taken into account in the count_total function
+
+another possible implementation would be to have n+1 values in pp, with pp[0] = 0
+"""
+
 
 def prefix_sums(aa):
     """
