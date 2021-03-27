@@ -21,5 +21,6 @@ This repo is like a bag of tricks in Python, that are not really algos, but are 
 2. Float precision
 3. Default dict initialization
 4. [Precompute powers](https://github.com/IAbeteEtMechante/Python_Tricks_for_Competitive_Programming/blob/main/Misc/precompute_powers.py)
+5. [Interactive problem](https://github.com/IAbeteEtMechante/Python_Tricks_for_Competitive_Programming/blob/main/Misc/interactive.py)
 
 ## Testing
