@@ -22,3 +22,6 @@ digits[-2] = 3 <br>
 by chosing epsilon very small (= 10^-6 for example) 
 and calculate (f(x + epsilon) - f(x - epsilon)) / (2 * epsilon)
 
+## Grid
+* When working with a grid, it can be interesting to think of it as a checkboard
+
