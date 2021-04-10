@@ -23,5 +23,5 @@ by chosing epsilon very small (= 10^-6 for example)
 and calculate (f(x + epsilon) - f(x - epsilon)) / (2 * epsilon)
 
 ## Grid
-* When working with a grid, it can be interesting to think of it as a checkboard
+* When working with a grid, it is often interesting to think of it as a checkboard [example](https://codeforces.com/contest/1503/problem/B)
 
