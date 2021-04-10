@@ -23,9 +23,12 @@ Also check some ideas of [things to think about](https://github.com/IAbeteEtMech
 2. Float precision
 3. Default dict initialization
 4. [Precompute powers](https://github.com/IAbeteEtMechante/Python_Tricks_for_Competitive_Programming/blob/main/Misc/precompute_powers.py)
-5. [Interactive problem](https://github.com/IAbeteEtMechante/Python_Tricks_for_Competitive_Programming/blob/main/Misc/interactive.py)
+5. [Interactive problem template](https://github.com/IAbeteEtMechante/Python_Tricks_for_Competitive_Programming/blob/main/Misc/interactive.py)
 
 ## Testing
+
+1. Testing normal
+2. Example of interactive testing for Google code jam (needs the local testing file provided by code jam for each problem)
 
 
 
