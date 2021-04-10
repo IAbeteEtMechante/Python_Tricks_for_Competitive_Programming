@@ -1,6 +1,8 @@
 # Python_Tricks_for_Competitive_Programming
 This repo is like a bag of tricks in Python, that are not really algos, but are usefull to know for CP.
 
+Also check some ideas of [things to think about](https://github.com/IAbeteEtMechante/Python_Tricks_for_Competitive_Programming/blob/main/Things_to_think_about.md)
+
 ## Arrays of numbers
 1. Group identical consecutive values
 2. Counter (frequency array)
