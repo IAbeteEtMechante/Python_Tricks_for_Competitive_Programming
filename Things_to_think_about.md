@@ -7,7 +7,7 @@ Random ideas from previous problems
 
 ## Strings
 * Palindromes: every palindrome contains a palindrome of length 2 or 3 (may be himself)
-* I believe in general it is faster to work with list than strings. Especially if you want to have a string of given length (maybe 200000) that you want to build character by character, it is better to preaffect a list of this lengthm and work with it, than make an empty string and do += (200000 times)  (see this problem)[https://codeforces.com/contest/1503/problem/A]
+* I believe in general it is faster to work with list than strings. Especially if you want to have a string of given length (maybe 200000) that you want to build character by character, it is better to preaffect a list of this lengthm and work with it, than make an empty string and do += (200000 times)  [see this problem](https://codeforces.com/contest/1503/problem/A)
 
 ## Work with numbers and digits
 * sometimes it is better to convert a number to a string for easier manipulation:
