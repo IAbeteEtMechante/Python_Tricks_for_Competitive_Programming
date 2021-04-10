@@ -24,3 +24,13 @@ This repo is like a bag of tricks in Python, that are not really algos, but are 
 5. [Interactive problem](https://github.com/IAbeteEtMechante/Python_Tricks_for_Competitive_Programming/blob/main/Misc/interactive.py)
 
 ## Testing
+
+
+
+interesting links:
+[interesting problemsets](https://cses.fi/problemset/)
+[corresponding book](https://cses.fi/book/index.php)
+Halim’s book 2020 edition(one that has a big Omega in the cover)
+[cp-algorithms.com](cp-algorithms.com)
+[cf viz](https://cfviz.netlify.app/index.html)
+[codedrills](https://recommender.codedrills.io)
