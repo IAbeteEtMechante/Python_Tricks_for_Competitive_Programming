@@ -38,3 +38,4 @@ Also check some ideas of [things to think about](https://github.com/IAbeteEtMech
 * [cp-algorithms.com](cp-algorithms.com)
 * [cf viz](https://cfviz.netlify.app/index.html)
 * [codedrills](https://recommender.codedrills.io)
+* [good blog](https://codeforces.com/blog/entry/89344) on how to improve, that also contains link to other good blog posts on that subject
